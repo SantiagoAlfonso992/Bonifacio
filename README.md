@@ -1,2 +1,2 @@
 # Bonifacio
-latex y negritas
+hola mundo
